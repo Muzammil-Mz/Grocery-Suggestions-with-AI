@@ -36,11 +36,7 @@ An AI-powered grocery recommendation system designed for Merakirana that generat
 
 ---
 
-## 📷 Screenshots
 
-*(Add screenshots here showing your UI, grocery list generation, etc.)*
-
----
 
 ## ⚙️ Getting Started (Local Setup)
 
